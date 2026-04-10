@@ -1,4 +1,4 @@
-# "Homemade" Machine Learning: Pokémon Catch Rate Prediction
+# "Homemade" Machine Learning
 
 ## Project Overview
 Led a team of eight as the Project Lead to execute a comprehensive seven-week machine learning study. The objective was to build several core machine learning algorithms from scratch using only NumPy and implement them to predict the **Catch Rate** of Pokémon based on their base statistics (Attack, Defense, Speed, etc.). This "bottom-up" approach was designed to deepen understanding of algorithmic architecture and optimization.
